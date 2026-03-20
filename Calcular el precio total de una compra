@@ -24,3 +24,4 @@ def main():
     except ValueError:
         print("Error: Debe ingresar valores numéricos válidos.")
 main()
+ 
